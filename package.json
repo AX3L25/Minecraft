@@ -1,0 +1,19 @@
+{
+  "name": "nouveau-dossier",
+  "version": "1.0.0",
+  "description": "tutorial youtune",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "axel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "custom-electron-titlebar": "^3.2.7",
+    "discord.js": "^12.5.3",
+    "electron": "^13.1.6",
+    "electron-builder": "^22.11.7",
+    "minecraft-launcher-core": "^3.16.4"
+  }
+}
