@@ -4,8 +4,6 @@
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="" alt="travis">]() [<img src="" alt="downloads">]() <img src="#"  height="28px" alt=""></p>
-
 <p align="center">Insipirée de cliassic.minecraft.net</p>
 
 ![Screenshot 1](https://i.imgur.com/e9pHImN.png)
